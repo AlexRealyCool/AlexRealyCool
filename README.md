@@ -3,5 +3,5 @@
 - 🌱 I’m currently improving my skills in Python
 - 🛠️ project I'm currenly working on: https://github.com/KalenskyyAlex/simple-language-interpreter 
 - 📫 How to contact me:
-  - telegram: @smthlikeelonmusk
+  - telegram: t.me/m_p_t_i/
   - linkedIn: https://www.linkedin.com/in/oleksandr-kalenskyy-460324250
